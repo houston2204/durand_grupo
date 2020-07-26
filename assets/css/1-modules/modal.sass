@@ -1,0 +1,188 @@
+.notify
+  position: fixed
+  right: 10px
+  bottom: 10px
+  width: 250px
+  padding: 15px
+  box-sizing: border-box
+  background-color: #2B2B2B
+  border-radius: 2px
+  display: flex
+  align-items: center
+  justify-content: space-between
+  animation: notify .5s
+  z-index: 3
+  i
+    font-size: 20px
+  p, i
+    margin: 0  
+    color: white
+.modal_content
+  position: fixed
+  left: 0
+  top: 0
+  width: 100%
+  height: 100%
+  z-index: 5
+  display: flex
+  justify-content: center
+  align-items: center
+  visibility: hidden
+  opacity: 0
+  transition: all ease-in-out .4s
+  background-color: rgba(black, .4)
+  &.active
+    visibility: visible
+    opacity: 1
+    .modal_wrapper
+      opacity: 1
+      transform: translateY(0)
+  .modal_wrapper
+    display: flex 
+    height: 450px
+    width: 800px
+    background-color: darken($bg_color, 4%)
+    position: relative 
+    transform: translateY(-40px)
+    opacity: .7
+    transition: all cubic-bezier(0.18, 0.89, 0.32, 1.28) 0.4s
+    box-shadow: 0px 9px 25px 0px rgba(46, 61, 73, 0.1)
+    .close_icon  
+      position: absolute
+      right: 10px
+      top: 10px
+      z-index: 6
+      cursor: pointer
+      i
+        font-size: 30px
+        color: $accent_color
+    .modal_body
+      width: 50%
+      padding: 2rem
+      box-sizing: border-box
+      display: flex
+      flex-direction: column
+      justify-content: space-between
+      p
+        font-family: $font_regular
+        font-size: 15px
+        line-height: 2
+        text-align: left
+        margin: 0
+        color: $base_color
+      a
+        width: 100%
+        display: flex
+        height: 45px
+        align-items: center
+        justify-content: center
+        border-radius: 50px   
+        text-decoration: none
+        font-size: 15px
+        color: $bg_color
+        background: $accent_color
+        background: linear-gradient(to right, $accent_color, #e2564f)
+        box-shadow: 0px 7px 20px 0px rgba(#D1454A, 0.25)
+        transition: all ease-in-out .2s
+        font-family: $font_bold
+        cursor: pointer
+        &:hover
+          background-color: #ffb69f  
+    .modal_image
+      width: 50%
+      height: 100%
+      display: block
+      background-image: url(../img/galery/galery1.jpg)
+      background-size: cover
+      background-position: center center
+      background-repeat: no-repeat no-repeat
+      position: relative 
+      background-blend-mode: hard-light
+      background-color: rgba(15, 16, 15, 0.74)
+      display: flex
+      justify-content: center
+      align-items: center
+      flex-direction: column
+      padding: 20px
+      box-sizing: border-box
+      &:before
+        content: ""
+        position: absolute
+        top: 0
+        left: 0
+        width: 100%
+        height: 100%
+        display: block
+        background: #f48536
+        background: -webkit-linear-gradient(to left, #e2564f, #f48536)
+        background: linear-gradient(to left, #e2564f, #f48536)
+        opacity: 0.75
+      .icon
+        width: 100px
+        height: 100px
+        margin: 0 auto
+        margin-bottom: 20px
+        .img
+          width: 100%
+          height: 100%
+          background-size: contain
+          background-repeat: no-repeat
+          background-color: darken($bg_color, 4%)
+      h1
+        font-size: 20px
+        //font-family: 'Roboto', sans-serif
+        font-family: $font_title
+        font-weight: normal
+        color: darken($bg_color, 4%)
+        margin: 0
+        text-transform: uppercase
+        letter-spacing: -0.05rem
+        position: relative
+
+
+@media screen and (max-width: 840px)
+  .modal_content
+    padding: 20px
+    box-sizing: border-box
+    .modal_wrapper
+      width: 100%
+      .modal_body
+        width: 60%
+      .modal_image
+        width: 40%
+
+@media screen and (max-width: 690px)
+  .modal_content
+    padding: 0px
+    box-sizing: border-box
+    .modal_scroll
+      overflow: auto
+      height: 100vh
+      margin-top: 20px
+      margin-bottom: 20px
+      .modal_wrapper
+        width: 100%
+        flex-direction: column
+        height: auto
+        min-height: 100vh
+        .close_icon  
+          top: 5px
+          i
+            color: $bg_color
+        .modal_body
+          width: 100%
+          padding: 1.5rem
+          a
+            margin-top: 15px
+          p
+            line-height: 1.7
+            font-size: 14px
+            text-align: left
+        .modal_image
+          width: 100%
+          .icon
+            width: 70px
+            height: 70px
+            margin-bottom: 10px
+          h1
+            font-size: 17px      

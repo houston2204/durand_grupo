@@ -1,0 +1,47 @@
+{
+  "services":[ 
+          {
+            "id": "0",
+            "img": "assets/img/service1.svg",
+            "title": "Elaboración de Expedientes Técnicos",
+            "content_short": "Somos una empresa  de consultoría de proyectos de inversión pública y privada , nos encargamos de elaborar perfiles, expedientes...",
+            "content": "Somos una empresa  de consultoría de proyectos de inversión pública y privada , nos encargamos de elaborar perfiles, expedientes, supervisión, liquidación de obras; también somos proveedores de bienes y servicios en general que brinda soluciones integrales en suministros de seguridad personal, productos de limpieza, materiales de construcción y electro-ferretería en general, brindamos el servicio de transporte de carga y alquiler de maquinarias livianas y pesadas, contamos con repuestos, filtros y lubricantes en general para todo tipo maquinaria pesada, para el Sector Industrial, Minero, Construcción y transporte. "
+          },
+          {
+            "id": "1",
+            "img": "assets/img/service2.svg",
+            "title": "Supervisión de Proyectos",
+            "content_short": "Nos encargamos de elaborar perfiles  de supervisión, liquidación ,en caso de ser requerido, contamos con la capacidad de suministrar todos los equipos necesarios...",
+            "content": "Nos encargamos de elaborar perfiles  de supervisión, liquidación ,en caso de ser requerido, contamos con la capacidad de suministrar todos los equipos necesarios y encargarnos de la logística requerida para la ejecución del servicio. El servicio incluye el soporte técnico y administrativo, junto con la supervisión de campo por parte de nuestros asesores para garantizar la calidad del servicio"
+          },
+          {
+            "id": "2",
+            "img": "assets/img/service3.svg",
+            "title": "Venta de material de construcción",
+            "content_short": "Somos una empresa preparada y especializada en trabajos de construcción, venta de materiales de construcción  en general...",
+            "content": "Somos una empresa preparada y especializada en trabajos de construcción, venta de materiales de construcción  en general ,venta de agregados, materiales de limpieza. Observamos el conjunto de pasos que deben darse para obtener un titulo apto para la inscripción de departamentos en edificios,quintas,casa en propiedad ,centros y galerías comerciales y en construcciones de propiedad exclusiva .Los procedimientos variaran según el tipo de precio que pretenda sanearse, así también variaran según el estado legal del bien."
+          },
+          {
+            "id": "3",
+            "img": "assets/img/service4.svg",
+            "title": "Alquiler de Maquinarias",
+            "content_short": "La empresa especializada en ser proveedor y brindar servicios en general  ,hace factible  que dispongas de la maquinaria que necesitas (pesada , liviana) para iniciar o continuar...",
+            "content": "La empresa especializada en ser proveedor y brindar servicios en general  ,hace factible  que dispongas de la maquinaria que necesitas (pesada , liviana) para iniciar o continuar con tu obra de proyecto, las maquinarias que se ofrecen en alquiler están en las mejores condiciones, las mismas en que solo los especialistas en mantenimiento de maquinarias pesada y liviana pueden ofrecer."
+          },
+          {
+            "id": "4",
+            "img": "assets/img/service5.svg",
+            "title": "Liquidación técnica y financiera de proyectos",
+            "content_short": "La empresa  elabora expedientes de liquidación de obras, decide el costo real de la ejecución de tu obra empleada  y su conformidad con el presupuesto...",
+            "content": "La empresa  elabora expedientes de liquidación de obras, decide el costo real de la ejecución de tu obra empleada  y su conformidad con el presupuesto, para verificar el movimiento financiero , así como la documentación que lo sustenta y la determinación del gasto financiero real de tu obra o proyecto , que  comprende todo los gastos realizados en el pago de : mano de obra ,materiales de construcción  y otros insumos, maquinarias y equipos. "
+          },
+          {
+            "id": "5",
+            "img": "assets/img/service6.svg",
+            "title": "Suministro de Materiales de Construcción",
+            "content_short": "Somos especialistas en abastecimiento de construcción, contamos con un catálogo de productos dedicado a las empresas constructoras, reformistas...",
+            "content": "Somos especialistas en abastecimiento de construcción, contamos con un catálogo de productos dedicado a las empresas constructoras, reformistas o bien de rehabilitar obras publicas o privadas , logramos atender las necesidades de los proyectos de obra civil. Además de la gran experiencia en las necesidades de nuestros clientes, tenemos una escala de productos para la construcción , que contiene marcas de prestigio de calidad que les dan la máxima confianza."
+          }
+  ]
+}
+ 

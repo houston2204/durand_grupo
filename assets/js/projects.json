@@ -1,0 +1,96 @@
+{
+  "projects":[ 
+          {
+            "id": "0",
+            "img": "assets/img/project/project1.jpg",
+            "sub_title": "Asfaltado de calles de ",
+            "title": "paucarbamba",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quia accusantium quas optio. Harum, eveniet cum omnis sapiente, vitae perferendis consectetur voluptate sit dicta odio labore earum ab delectus quisquam!,Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quia accusantium quas optio. Harum, eveniet cum omnis sapiente, vitae perferendis.",
+            "location": "Amarilis, Huánuco - 2000",
+            "money": "1 550.000,00"
+          },
+          {
+            "id": "1",
+            "img": "assets/img/project/project2.jpg",
+            "sub_title": "Construcción de salón de",
+            "title": "Usos Multiples en Jesus",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quia accusantium quas optio. Harum, eveniet cum omnis sapiente, vitae perferendis consectetur voluptate sit dicta odio labore earum ab delectus quisquam!,Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quia accusantium quas optio. Harum, eveniet cum omnis sapiente, vitae perferendis.",
+            "location": "Lauricocha - 2001",
+            "money": "1 880,000.00"
+          },
+          {
+            "id": "2",
+            "img": "assets/img/project/project3.jpg",
+            "sub_title": "Hidroelectrica de ",
+            "title": "Pachapaqui",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quia accusantium quas optio. Harum, eveniet cum omnis sapiente, vitae perferendis consectetur voluptate sit dicta odio labore earum ab delectus quisquam!,Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quia accusantium quas optio. Harum, eveniet cum omnis sapiente, vitae perferendis.",
+            "location": "Ancash - 2002",
+            "money": "1 600.000,00"            
+          },
+          {
+            "id": "3",
+            "img": "assets/img/project/project4.jpg",
+            "sub_title": "Construcción del coliseo de",
+            "title": "Usos Multiples LLata",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quia accusantium quas optio. Harum, eveniet cum omnis sapiente, vitae perferendis consectetur voluptate sit dicta odio labore earum ab delectus quisquam!,Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quia accusantium quas optio. Harum, eveniet cum omnis sapiente, vitae perferendis.",
+            "location": "LLata, Huánuco - 2003",
+            "money": "1 700.000,00"            
+          },
+          {
+            "id": "4",
+            "img": "assets/img/project/project4.jpg",
+            "sub_title": "Construcción del centro",
+            "title": "Cívico de Miraflores",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quia accusantium quas optio. Harum, eveniet cum omnis sapiente, vitae perferendis consectetur voluptate sit dicta odio labore earum ab delectus quisquam!,Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quia accusantium quas optio. Harum, eveniet cum omnis sapiente, vitae perferendis.",
+            "location": "LLata, Huánuco - 2005",
+            "money": "689.000,00"            
+          },
+          {
+            "id": "5",
+            "img": "assets/img/project/project4.jpg",
+            "sub_title": "aulas del colegio",
+            "title": "Nacional de Punchao",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quia accusantium quas optio. Harum, eveniet cum omnis sapiente, vitae perferendis consectetur voluptate sit dicta odio labore earum ab delectus quisquam!,Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quia accusantium quas optio. Harum, eveniet cum omnis sapiente, vitae perferendis.",
+            "location": "Huamalíes, Huánuco - 2006",
+            "money": "1 480.000,00"            
+          },
+          {
+            "id": "6",
+            "img": "assets/img/project/project4.jpg",
+            "sub_title": "Construcción de Hotel",
+            "title": "Municipal Chupan",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quia accusantium quas optio. Harum, eveniet cum omnis sapiente, vitae perferendis consectetur voluptate sit dicta odio labore earum ab delectus quisquam!,Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quia accusantium quas optio. Harum, eveniet cum omnis sapiente, vitae perferendis.",
+            "location": "Yarowilca, Huánuco - 2007",
+            "money": "835.000,00"            
+          },
+          {
+            "id": "7",
+            "img": "assets/img/project/project4.jpg",
+            "sub_title": "Construcción sistema de",
+            "title": "Desague en Yacan",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quia accusantium quas optio. Harum, eveniet cum omnis sapiente, vitae perferendis consectetur voluptate sit dicta odio labore earum ab delectus quisquam!,Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quia accusantium quas optio. Harum, eveniet cum omnis sapiente, vitae perferendis.",
+            "location": "Yanahuanca, Pasco - 2008",
+            "money": "4 250.000,00"            
+          },
+          {
+            "id": "8",
+            "img": "assets/img/project/project4.jpg",
+            "sub_title": "Mantenimiento periódico de la",
+            "title": "Carretera Lucmapampa",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quia accusantium quas optio. Harum, eveniet cum omnis sapiente, vitae perferendis consectetur voluptate sit dicta odio labore earum ab delectus quisquam!,Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quia accusantium quas optio. Harum, eveniet cum omnis sapiente, vitae perferendis.",
+            "location": "Pillao, Pasco - 2009",
+            "money": "1 380.000,00"            
+          },
+          {
+            "id": "9",
+            "img": "assets/img/project/project4.jpg",
+            "sub_title": "Mantenimiento periódico de la",
+            "title": "Carretera Tusi",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quia accusantium quas optio. Harum, eveniet cum omnis sapiente, vitae perferendis consectetur voluptate sit dicta odio labore earum ab delectus quisquam!,Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quia accusantium quas optio. Harum, eveniet cum omnis sapiente, vitae perferendis.",
+            "location": "Pampania, Pasco - 2009",
+            "money": "1 125.000,00"            
+          }
+
+  ]
+}
+ 
